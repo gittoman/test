@@ -1,4 +1,6 @@
 {
-  "name" : "composer_pckg",
-  "version" : "1.0.0"
+  "name" : "gittoman/test",
+  "description" : "test package",
+  "version" : "1.0.0",
+  "license" : "proprietary",
 }
